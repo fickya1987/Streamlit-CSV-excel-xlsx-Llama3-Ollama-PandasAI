@@ -4,3 +4,4 @@ pandasai
 pyyaml
 openpyxl
 ollama
+openai
