@@ -3,3 +3,4 @@ pandas
 pandasai
 pyyaml
 openpyxl
+ollama
